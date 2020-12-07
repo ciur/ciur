@@ -6,6 +6,7 @@ I am freelance Django/Python/JavaScript developer.
 - 🔭 I create [Django screencasts](https://django-lessons.com)
 - 👯 **I’m happy to consult you on your Django/Python/Web projects**
 - 📫 Reach me via [email](mailto:eugen@papermerge.com)
+- :round_pushpin: I live in Berlin, Germany
 - ⚡ Fun fact: I speak English, German, Romanian and Russian languages
 
 I graduated in 2007 Bachelor of Computer Science (5 years course) at
