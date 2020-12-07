@@ -11,5 +11,5 @@ I am freelance Django/Python/JavaScript developer.
 I graduated in 2007 Bachelor of Computer Science (5 years course) at
 Politehnica University of Bucharest (Romanian: Universitatea Politehnica din
 București). Although I worked with many IT techologies, nowadays I primarely
-focused on web technologies. I crazy in love with Python, Django, Javascript and
-open source in general.
+focused on web technologies. :heart: I crazy in love with Python, Django, Javascript and
+open source in general. :heart:
