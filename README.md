@@ -3,7 +3,6 @@
 I am freelance Full Stack Django/Python/JavaScript developer.
 
 - 🌱 I’m lead developer of [Papermerge](https://www.papermerge.com)
-- 🔭 I create [Django screencasts](https://django-lessons.com)
 - 👯 **I’m happy to consult you on your Django/Python/Web projects**
 - 📫 Reach me via [email](mailto:eugen@papermerge.com)
 - :round_pushpin: I live in Berlin, Germany
