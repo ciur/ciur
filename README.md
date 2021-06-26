@@ -7,9 +7,9 @@ I am Django/Python/JavaScript developer.
 - :round_pushpin: I live in Berlin, Germany
 - ⚡ Fun fact: I speak English, German, Romanian and Russian languages
 - :nerd_face:
-    - In 2001 I won 3rd place in (Rep. Moldova's) National Mathematical Olympiad 
-    - In 2002 I won 2nd place in (Rep. Moldova's) National Mathematical Olympiad
-    - In 2002 I won Silver Medal in 19th Balkan Mathematical Olympiad
+    - In 2001 I won 3rd place in Rep. Moldova's National Mathematical Olympiad
+    - In 2002 I won 2nd place in Rep. Moldova's National Mathematical Olympiad
+    - In 2002 I won Silver Medal in [19th Balkan Mathematical Olympiad](https://en.wikipedia.org/wiki/Balkan_Mathematical_Olympiad)
 
 I graduated in 2007 Bachelor of Computer Science (5 years course) at
 Politehnica University of Bucharest (Romanian: Universitatea Politehnica din
