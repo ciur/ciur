@@ -6,6 +6,10 @@ I am Django/Python/JavaScript developer.
 - 📫 Reach me via [email](mailto:eugen@papermerge.com)
 - :round_pushpin: I live in Berlin, Germany
 - ⚡ Fun fact: I speak English, German, Romanian and Russian languages
+- :nerd_face:
+    - In 2001 I won 3rd place in (Rep. Moldova's) National Mathematical Olympiad 
+    - In 2002 I won 2nd place in (Rep. Moldova's) National Mathematical Olympiad
+    - In 2002 I won Silver Medal in 19th Balkan Mathematical Olympiad
 
 I graduated in 2007 Bachelor of Computer Science (5 years course) at
 Politehnica University of Bucharest (Romanian: Universitatea Politehnica din
