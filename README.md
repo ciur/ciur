@@ -14,8 +14,7 @@ focused on **cloud** technologies.
 
 Papermerge is an open source document management system for scanned documents
 (PDF documents, JPEG, PNG, TIFF scans). Its source code is split into many
-reusable packages. Each of these packages is part of [Papermerge Organization]
-(https://github.com/papermerge).
+reusable packages. Each of these packages is part of [Papermerge Organization](https://github.com/papermerge).
 
 Following is the list and a diagram of Papermerge projects ecosystem:
 
