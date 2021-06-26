@@ -12,7 +12,9 @@ Politehnica University of Bucharest (Romanian: Universitatea Politehnica din
 București). Although I worked in many IT areas, nowadays I am primarily
 focused on **cloud** technologies.
 
-Papermerge is an open source document management system for scanned documents
+## Papermerge Ecosystem
+
+Papermerge is an **open source document management system** for scanned documents
 (PDF documents, JPEG, PNG, TIFF scans). Its source code is split into many
 reusable packages. Each of these packages is part of [Papermerge Organization](https://github.com/papermerge).
 
