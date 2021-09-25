@@ -25,6 +25,6 @@ reusable packages. Each of these packages is part of [Papermerge Organization](h
 Following is the list and a diagram of Papermerge projects ecosystem:
 
 * [Papermerge](https://github.com/ciur/papermerge) - Django project which bundles all pieces together
-* [Papermerge Core](https://github.com/papermerge/papermerge-core) - Backend central piece. The heart of Papermerge. This is a [python package](https://pypi.org/project/papermerge-core/).
-* [Papermerge.JS](https://github.com/papermerge/core-js) - Frontend central piece
+* [Papermerge Core](https://github.com/papermerge/papermerge-core) - Backend central piece. The heart of Papermerge. This is a [python package](https://pypi.org/project/papermerge-core/) (Django + Django REST API application).
+* [Papermerge.JS](https://github.com/papermerge/papermerge.js) - Frontend central piece (emberjs application)
 * [Documentation](https://github.com/papermerge/documentation) - Sphinx based documentation repository.
