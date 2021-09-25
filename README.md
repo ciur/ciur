@@ -19,13 +19,13 @@ focused on **cloud** technologies.
 ## Papermerge Ecosystem
 
 Papermerge is **open source document management system** for scanned documents
-(PDF documents, JPEG, PNG, TIFF scans). Its source code is split into two major pieces
-backend and frontend. [Papermerge Organization](https://github.com/papermerge) groups all papermerge related projects under one umbrella.
+(PDF documents, JPEG, PNG, TIFF scans). Its source codebase is devided in two major repositories
+[backend](https://github.com/papermerge/papermerge-core) and [frontend](https://github.com/papermerge/papermerge.js). [Papermerge Organization](https://github.com/papermerge) groups all related projects under one umbrella.
 
-Following is the list and a diagram of Papermerge projects ecosystem:
+Following is the list of Papermerge projects ecosystem:
 
-* [Papermerge](https://github.com/ciur/papermerge) - Django project which bundles all pieces together. This repository is used
-as central tickets tracker.
-* [Papermerge Core](https://github.com/papermerge/papermerge-core) - Backend central piece. The heart of Papermerge. This is a [python package](https://pypi.org/project/papermerge-core/) (Django + Django REST API application).
-* [Papermerge.JS](https://github.com/papermerge/papermerge.js) - Frontend central piece (emberjs application)
+* [Papermerge](https://github.com/ciur/papermerge) - This repository is used
+as central tickets tracker. It contains a Django project which bundles all pieces together. 
+* [Papermerge Core](https://github.com/papermerge/papermerge-core) - **The backend**'s central piece. The heart of Papermerge. It is Django + Django REST API application.
+* [Papermerge.JS](https://github.com/papermerge/papermerge.js) - **The fontend** central piece (emberjs application)
 * [Documentation](https://github.com/papermerge/documentation) - Sphinx based documentation repository.
