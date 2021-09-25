@@ -27,5 +27,5 @@ Following is the list of Papermerge projects ecosystem:
 * [Papermerge](https://github.com/ciur/papermerge) - This repository is used
 as central tickets tracker. It contains a Django project which bundles all pieces together. 
 * [Papermerge Core](https://github.com/papermerge/papermerge-core) - **The backend**'s central piece. The heart of Papermerge. It is Django + Django REST API application.
-* [Papermerge.JS](https://github.com/papermerge/papermerge.js) - **The fontend** central piece (emberjs application)
+* [Papermerge.JS](https://github.com/papermerge/papermerge.js) - **The fontend**'s central piece (emberjs application)
 * [Documentation](https://github.com/papermerge/documentation) - Sphinx based documentation repository.
