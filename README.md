@@ -28,4 +28,4 @@ Following is the list of Papermerge ecosystem major projects:
 * [Documentation](https://github.com/papermerge/documentation) - Sphinx based
   documentation repository.
 * [Papermerge S3 Backend](https://github.com/papermerge/s3) - Papermerge plugin (in other words, a Django app)
-    for storing Papermerge documents on S3 cloud storage.
+    for storing Papermerge documents on S3 object storage.
