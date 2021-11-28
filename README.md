@@ -12,8 +12,7 @@ I am Python/JavaScript developer/engineer.
 Papermerge is **open source document management system** for scanned documents
 
 (PDF documents, JPEG, PNG, TIFF scans). Its source code is split into two major
-pieces backend and frontend. [Papermerge Organization]
-(https://github.com/papermerge) groups all papermerge related projects under
+pieces backend and frontend. [Papermerge Organization](https://github.com/papermerge) groups all papermerge related projects under
 one umbrella.
 
 Following is the list of Papermerge projects ecosystem:
