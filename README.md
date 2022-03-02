@@ -5,7 +5,6 @@ I am Python/JavaScript developer/engineer.
 - 🌱 I’m lead developer of [Papermerge](https://www.papermerge.com)
 - 📫 Reach me via [email](mailto:eugen@papermerge.com)
 - :round_pushpin: I live in Berlin, Germany
-- ⚡ Fun fact: I speak English, German, Romanian and Russian languages
 
 ## Papermerge Ecosystem
 
