@@ -2,7 +2,7 @@
 
 I am Python/JavaScript developer/engineer.
 
-- 🌱 I’m lead developer of [Papermerge](https://www.papermerge.com)
+- 🌱 I’m lead developer of [Papermerge](https://github.com/ciur/papermerge)
 - 📫 Reach me via [email](mailto:eugen@papermerge.com)
 - :round_pushpin: I live in Berlin, Germany
 
