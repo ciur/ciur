@@ -26,5 +26,4 @@ Following is the list of Papermerge ecosystem major projects:
   central piece (emberjs application)
 * [Documentation](https://github.com/papermerge/documentation) - Sphinx based
   documentation repository.
-* [Papermerge S3 Backend](https://github.com/papermerge/s3) - Papermerge plugin (in other words, a Django app)
-    for storing Papermerge documents on S3 object storage.
+* [Helm Chart](https://github.com/papermerge/helm-chart) - Papermerge helm chart for deploying in Kubernetes cluster.
