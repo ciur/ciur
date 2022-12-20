@@ -31,4 +31,4 @@ Following is the list of Papermerge ecosystem major projects:
 * [Helm Chart](https://github.com/papermerge/helm-chart) - Papermerge helm chart for deploying in Kubernetes cluster
 
 
-Detailed documentation about Papermerge DMS project is available online at [https://docs.papermerge.io](https://docs.papermerge.io)
+Detailed documentation for Papermerge DMS project is available online at [https://docs.papermerge.io](https://docs.papermerge.io)
