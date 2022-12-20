@@ -9,7 +9,7 @@ I am Python/TypeScript/Rust/C/C++ developer.
 
 ## Papermerge Ecosystem
 
-Papermerge is **open source document management system** for scanned documents (PDF documents,
+Papermerge DMS is **open source document management system** for scanned documents (PDF documents,
 JPEG, PNG, TIFF scans). Its source code is split into two major pieces backend
 and frontend. [Papermerge Organization](https://github.com/papermerge) groups all
 papermerge related projects under one umbrella.
@@ -29,3 +29,6 @@ Following is the list of Papermerge ecosystem major projects:
   documentation repository
 * [papermerge-cli](https://github.com/papermerge/papermerge-cli) - Command line utility used to manage your Papermerge DMS instace
 * [Helm Chart](https://github.com/papermerge/helm-chart) - Papermerge helm chart for deploying in Kubernetes cluster
+
+
+Detailed documentation about Papermerge DMS project is available online at [https://docs.papermerge.io](https://docs.papermerge.io)
