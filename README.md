@@ -5,6 +5,7 @@ I am Python/TypeScript/Rust/C/C++ developer.
 - 🌱 I’m creator and lead developer of [Papermerge](https://github.com/ciur/papermerge)
 - 📫 Reach me via [email](mailto:eugen@papermerge.com)
 - :round_pushpin: I live in Berlin, Germany
+- I speak German, English and Romanian languages
 
 ## Papermerge Ecosystem
 
