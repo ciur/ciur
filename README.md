@@ -1,8 +1,8 @@
 ### Hi there, 👋, I am Eugen,
 
-I am Python/JavaScript developer/engineer.
+I am Python/TypeScript/Rust/C/C++ developer.
 
-- 🌱 I’m lead developer of [Papermerge](https://github.com/ciur/papermerge)
+- 🌱 I’m creator and lead developer of [Papermerge](https://github.com/ciur/papermerge)
 - 📫 Reach me via [email](mailto:eugen@papermerge.com)
 - :round_pushpin: I live in Berlin, Germany
 
@@ -26,4 +26,5 @@ Following is the list of Papermerge ecosystem major projects:
   central piece (emberjs application)
 * [Documentation](https://github.com/papermerge/documentation) - Sphinx based
   documentation repository
+* [papermerge-cli](https://github.com/papermerge/papermerge-cli) - Command line utility used to manage your Papermerge DMS instace
 * [Helm Chart](https://github.com/papermerge/helm-chart) - Papermerge helm chart for deploying in Kubernetes cluster
