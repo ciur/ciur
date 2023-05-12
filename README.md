@@ -17,7 +17,7 @@ papermerge related projects under one umbrella.
 Following is the list of Papermerge ecosystem major projects:
 
 
-* [Papermerge](https://github.com/ciur/papermerge) - **Meta repository**, currently used as central issues tracker, project visibility and discussions. The source code for papermerge before 2.0 used to be in this repo.
+* [Papermerge](https://github.com/ciur/papermerge) - **Meta repository**, currently used for issues tracking, project visibility and discussions. The source code for papermerge before 2.0 used to be in this repo.
 * [Papermerge Core](https://github.com/papermerge/papermerge-core) - The heart of Papermerge project. For versions 2.0.x and 2.1.x only backend code is in this repo. Starting with 2.2 both backend and frontend source code is in this repository.
 * [Documentation](https://github.com/papermerge/documentation) - Sphinx based
   documentation repository
