@@ -23,4 +23,4 @@ Following is the list of Papermerge ecosystem major projects:
 
 Detailed documentation for Papermerge DMS project is available online at [https://docs.papermerge.io](https://docs.papermerge.io)
 
-Current status - 3.0 ~~2.2.x~~ is in active development and will be [released on 01.12.2023](https://github.com/papermerge/papermerge-core/milestone/2).
+Current status - 3.0 ~~2.2.x~~ is in active development and will be [released on 31.12.2023](https://github.com/papermerge/papermerge-core/milestone/2).
