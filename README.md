@@ -5,7 +5,8 @@ I am Python/TypeScript developer.
 - 🌱 I’m author and core developer of [Papermerge DMS](https://github.com/ciur/papermerge)
 - 📫 Reach me via [email](mailto:eugen@papermerge.com)
 - :round_pushpin: I live in Berlin, Germany
-- Besides my native Romanian, I also speak English, German and Russian languages
+- Besides my native [Romanian](https://en.wikipedia.org/wiki/Romanian_language), I also speak English, German and Russian languages
+
 
 ## Papermerge Ecosystem
 
