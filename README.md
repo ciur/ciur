@@ -10,15 +10,15 @@ I am Python/TypeScript developer.
 ## Papermerge Ecosystem
 
 Papermerge DMS is **open source document management system** for scanned documents (PDF documents,
-JPEG, PNG, TIFF scans). Its source code is split into two major pieces backend
-and frontend. [Papermerge Organization](https://github.com/papermerge) groups all
+JPEG, PNG, TIFF scans). [Papermerge Organization](https://github.com/papermerge) groups all
 papermerge related projects under one umbrella.
 
 Following is the list of Papermerge ecosystem major projects:
 
 
 * [Papermerge](https://github.com/ciur/papermerge) - **Meta repository**, currently used for issues tracking, project visibility and discussions. The source code for papermerge before 2.0 used to be in this repo.
-* [Papermerge Core](https://github.com/papermerge/papermerge-core) - The heart of Papermerge project. For versions 2.0.x and 2.1.x only backend code is in this repo. Starting with 3.0 both backend and frontend source code is in this repository.
+* [Papermerge Core](https://github.com/papermerge/papermerge-core) - The heart of Papermerge project. Most of dev action happens in this repo.
 * [Documentation](https://github.com/papermerge/documentation) - Documentation repository
+* [Ansible Playbook](https://github.com/papermerge/ansible) - Ansible playbook for deploying paper on your home lab server or on your remote VPS
 
 Detailed documentation for Papermerge DMS project is available online at [https://docs.papermerge.io](https://docs.papermerge.io)
