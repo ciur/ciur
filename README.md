@@ -1,6 +1,6 @@
 ### Hi there, 👋, I am Eugen,
 
-I am Python/TypeScript developer.
+I am software engineer.
 
 - 🌱 I’m author and core developer of [Papermerge DMS](https://github.com/ciur/papermerge)
 - 📫 Reach me via [email](mailto:eugen@papermerge.com)
