@@ -20,6 +20,8 @@ Following is the list of Papermerge ecosystem major projects:
 * [Papermerge](https://github.com/ciur/papermerge) - **Meta repository**, currently used for issues tracking, project visibility and discussions. The source code for papermerge before 2.0 used to be in this repo.
 * [Papermerge Core](https://github.com/papermerge/papermerge-core) - The heart of Papermerge project. Most of dev action happens in this repo.
 * [Documentation](https://github.com/papermerge/documentation) - Documentation repository
-* [Ansible Playbook](https://github.com/papermerge/ansible) - Ansible playbook for deploying paper on your home lab server or on your remote VPS
 
 Detailed documentation for Papermerge DMS project is available online at [https://docs.papermerge.io](https://docs.papermerge.io)
+
+For news, announcements, and articles check Papermerge Blog:  [https://papermerge.blog](https://papermerge.blog)
+
